@@ -1,0 +1,5 @@
+Python 3.10+
+FastAPI
+Pydantic
+Uvicorn (for running the APIs)
+Postman Agent (for testing the API endpoints)
