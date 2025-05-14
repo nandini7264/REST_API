@@ -1,4 +1,3 @@
-Python 3.10+
 FastAPI
 Pydantic
 Uvicorn (for running the APIs)
