@@ -1,4 +1,4 @@
 FastAPI
 Pydantic
-Uvicorn (for running the APIs)
-Postman Agent (for testing the API endpoints)
+Uvicorn 
+
