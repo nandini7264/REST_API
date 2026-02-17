@@ -180,10 +180,8 @@ assignment-management-api/
 ### 📸 Deployment Screenshots
 
 #### Render Dashboard
-![Render Dashboard](screenshots/render-dashboard.png)
+![Render Dashboard](Screenshots/Screenshot%20from%202025-05-14%2020-48-25.png)
 
-#### Live API Swagger UI
-![Swagger UI](screenshots/swagger-ui.png)
 
 #### Successful API Response
 ![API Response](screenshots/api-response.png)
