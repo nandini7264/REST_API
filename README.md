@@ -184,7 +184,7 @@ assignment-management-api/
 
 
 #### Successful API Response
-![API Response](screenshots/api-response.png)
+![API Response](Screenshots/Screenshot%20from%202025-05-14%2020-56-14.png)
 
 ---
 
